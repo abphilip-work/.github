@@ -1,10 +1,10 @@
 **Other Directories**
 
 [<img alt='VIT' src="/Logo/VIT.png" width="80">](https://github.com/abphilip-vit/) 
-[<img alt='Coursera' src="/Logo/Coursera.png" width="80">](https://github.com/abphilip-coursera/) 
+[<img alt='Coursera' src="/Logo/Coursera.png" width="80">](https://github.com/abphilip-coursera/)
 [<img alt='Codes' src="/Logo/Codes.png" width="80">](https://github.com/abphilip-codes/) 
 [<img alt='School' src="/Logo/School.png" width="80">](https://github.com/abphilip-school/) 
-[<img alt='Resources' src="/Logo/Resources.png" width="80">](https://github.com/abphilip-resources/) 
+[<img alt='Resources' src="/Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 
 ###  [📌](https://github.com/allenalvin333/) Allen Ben Philipose
 
